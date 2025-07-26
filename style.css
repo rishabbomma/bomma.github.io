@@ -84,3 +84,12 @@ body {
     padding: 1rem;
   }
 }
+
+#gotRhythm890  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+time {
+  color: blue; 
+  font-weight: bold; 
+}
