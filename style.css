@@ -93,3 +93,7 @@ time {
   color: blue; 
   font-weight: bold; 
 }
+mark {
+  background-color: #121212 ;
+  color: #541d92;
+}
